@@ -1,4 +1,4 @@
-Carte intéractive sur les décheterie de Rennes Métropole 
+Carte intéractive sur les décheteries de Rennes Métropole 
 
 Projet étudiant 
 
