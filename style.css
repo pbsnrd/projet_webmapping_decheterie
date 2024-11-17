@@ -78,7 +78,7 @@ body {
 
       .listings .item .title {
         display: block;
-        color: #3d2dff;
+        color: #00853e;
         font-weight: 700;
       }
 
@@ -88,7 +88,7 @@ body {
 
       .listings .item.active .title,
       .listings .item .title:hover {
-        color: #8bb2ff;
+        color: #94FF96;
       }
 
       .listings .item.active {
