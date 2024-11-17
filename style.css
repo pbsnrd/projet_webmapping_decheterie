@@ -49,12 +49,12 @@ body {
       }
 
       .heading {
-        background: #fff;
-        border-bottom: 1px solid #fff;
+        background: #F5F5F5;
+        border-bottom: 1px solid #F5F5F5;
         min-height: 60px;
         line-height: 60px;
         padding: 0 10px;
-        background-color: #fff;
+        background-color: #F5F5F5;
         color: #000;
         font-weigth : bold;
       }
@@ -63,6 +63,7 @@ body {
         height: 100%;
         overflow: auto;
         padding-bottom: 60px;
+        background-color : #F5F5F5;
       }
 
       .listings .item {
